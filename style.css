@@ -1,0 +1,15 @@
+:root {
+  --background: #000;
+  --text-color: #fff;
+  --button: #8257e5;
+  --border: #29292e;
+  --border-menu-mobile: #a8a8b3;
+  --text-color-menu-mobile: #e1e1e6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: 'Manrope', sans-serif;
+}
